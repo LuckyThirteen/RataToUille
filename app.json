@@ -1,0 +1,7 @@
+{
+  "name": "RataToUille",
+  "description": "Facebook Real-time Update tester",
+  "logo": "http://vignette4.wikia.nocookie.net/pixar/images/a/a9/Ratatouille-remy3.jpg/revision/latest?cb=20150214191242",
+  "repository": "https://github.com/LuckyThirteen/RataToUille",
+  "keywords": ["facebook", "graph api", "real-time update"]
+}
